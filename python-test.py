@@ -1,4 +1,4 @@
 print("hello world");
-print("some text");
+print("some random text");
 print("Some more text");
 print(2+2);
